@@ -1,5 +1,5 @@
 #home {
-  background-color: #D23333;
+  background-color: #ffffff;
   color: white;
   height: 100vh;
   display: flex;
@@ -14,4 +14,16 @@
     font-weight: bold;
     font-size: 16px;
   }
+}
+
+#home-flats {
+    padding: 100px 0;
+    background-color: #ffffff;
+}
+
+#home-flats h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
 }
